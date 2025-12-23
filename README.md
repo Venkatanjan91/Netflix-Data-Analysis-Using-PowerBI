@@ -91,3 +91,12 @@ The goal is to convert raw data into **clear, visual, decision-ready insights**.
 - Business decision analysis simulation
 
 ---
+
+## 👤 Author
+**Venkat Anjan Kumar**  
+📊 Aspiring Data Analyst | Business Intelligence | Analytics Enthusiast  
+
+---
+
+## ⭐ If you find this project useful
+Give the repository a **star ⭐** and feel free to fork or contribute!
